@@ -18,7 +18,6 @@
  *    4
  */
 function median(arr) {
-  var result;
 
   var isEven = function(num) {
     if (num % 2 === 0) {
