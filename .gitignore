@@ -1,0 +1,2 @@
+# i want that file to be ignored when i do the git add.
+node_modules
